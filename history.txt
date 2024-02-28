@@ -1,0 +1,16 @@
+  375  gc -m "added initial flavours"
+  376  gs
+  377  gl
+  378  clear
+  379  gco main
+  380  gco master
+  381  gl
+  382  gco -b history
+  383  gb 
+  384  gl
+  385  clear
+  386  gco milkshake-flavours
+  387  gl
+  388  gco history
+  389  gl
+  390  clear
